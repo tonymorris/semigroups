@@ -51,3 +51,4 @@ library
   exposed-modules:
     Data.Semigroup
     Data.List.NonEmpty
+    Data.Set.NonEmpty
